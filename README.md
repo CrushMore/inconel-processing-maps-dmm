@@ -38,5 +38,5 @@ To transition from coarse experimental discrete data points into continuous visu
 * Documented discrepancies between the code output and literature benchmarks are systematically traced to interpolation edge constraints, local slope calculations, and starting experimental point limitations.
 
 ## Repository Contents
-* INCONEL_ALLOYS_PROCESSING_MAPS.pdf: Detailed project presentation summarizing microstructural phases, DMM workflows, and comparative map sets.
-* MM208-code.py: Complete Python script housing raw arrays, scipy.interpolate mechanics, calculations, and matplotlib contour visualization properties.
+* 'INCONEL_ALLOYS_PROCESSING_MAPS.pdf': Detailed project presentation summarizing microstructural phases, DMM workflows, and comparative map sets.
+* 'MM208-code.py': Complete Python script housing raw arrays, 'scipy.interpolate' mechanics, calculations, and 'matplotlib' contour visualization properties.
