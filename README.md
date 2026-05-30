@@ -39,4 +39,4 @@ To transition from coarse experimental discrete data points into continuous visu
 
 ## Repository Contents
 * `INCONEL_ALLOYS_PROCESSING_MAPS.pdf`: Detailed project presentation summarizing microstructural phases, DMM workflows, and comparative map sets.
-* `MM@)*-code.py`: Complete Python script housing raw arrays, `scipy.interpolate` mechanics, calculations, and `matplotlib`contour visualization properties.
+* `MM208*-code.py`: Complete Python script housing raw arrays, `scipy.interpolate` mechanics, calculations, and `matplotlib`contour visualization properties.
